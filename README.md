@@ -1,5 +1,8 @@
 # Formula 1 Race Prediction Using MATLAB
 
+##Process
+Run mainscript.m to start the project.
+
 ## Overview
 
 This project analyzes historical Formula 1 race data and builds a basic predictive model using MATLAB. It processes driver, team, and race performance data to identify trends and estimate race outcomes.
@@ -14,7 +17,7 @@ This project analyzes historical Formula 1 race data and builds a basic predicti
 
 ## Files Included
 
-* `Mainscript_Ibishomi.m` – Main execution script for the project
+* `mainscript.m` – Main execution script for the project
 * `Loop2.m`, `Loop3.m` – Data processing loops for analysis
 * `Errorcheck_Driver.m` – Validates driver data consistency
 * `Bargraph_Colours.m` and variants – Visualizations of race and team data
